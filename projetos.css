@@ -1,0 +1,35 @@
+.titulo-projetos{
+    text-align: center;
+    margin: 20px;
+    font-family: "Bungee", sans-serif;
+    color: rgb(75, 71, 71);
+}
+
+.card{
+    display: flex;
+    background-color: rgba(51, 47, 47, 0.349);
+    width: 80%;
+    margin: auto;
+    border-radius: 15px;
+    padding: 15px;
+    justify-content: space-around;
+    margin-bottom: 25px;
+}
+
+.miniatura {
+    width: 40%;
+    border-radius: 15px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-family: "Inconsolata", monospace;
+}
+
+.info-titulo {
+    font-size: 30px;
+    color: rgba(51, 52, 53, 0.911);
+    font-family: "Inter", sans-serif;
+}

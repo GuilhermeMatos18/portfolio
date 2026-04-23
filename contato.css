@@ -1,0 +1,19 @@
+#Contato{
+    text-align: center;
+    margin: 20px;
+    font-family: "Bungee", sans-serif;
+    color: rgb(75, 71, 71);
+    padding: 50px;
+}
+
+.mini{
+    height: 200px;
+    width: 200px;
+}
+
+.redesocial{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    margin-bottom: 200px;
+}

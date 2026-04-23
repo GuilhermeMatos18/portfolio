@@ -1,0 +1,42 @@
+#Sobre-Mim {
+    text-align: center;
+    margin: 20px;
+    font-family: "Bungee", sans-serif;
+    color: rgb(75, 71, 71);
+    padding: 50px;
+}
+
+#foto-sobre {
+    width: 15%;
+    border-radius: 25px;
+}
+
+.sobre-info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 30px;
+    font-family: "Montserrat", sans-serif;
+}
+
+#texto-info {
+    background-color: rgb(241, 236, 236);
+    color: rgb(44, 43, 43);
+    width: 70%;
+    font-family: "Inconsolata", monospace;
+    font-size: 25px;
+    padding: 15px;
+    text-align: justify;
+}
+
+.galeria{
+    display: flex;
+    justify-content: space-around;
+    margin: 15px;
+}
+
+.foto{
+    width: 25%;
+    height: 500px;
+    border-radius: 15px;
+}
